@@ -1,0 +1,12 @@
+[
+    { "id": 1, "text": "Complete homework", "done": false },
+    { "id": 2, "text": "Read a book", "done": true },
+    { "id": 3, "text": "Go for a run", "done": false },
+    { "id": 4, "text": "Learn React", "done": false },
+    { "id": 5, "text": "Cook dinner", "done": true },
+    { "id": 6, "text": "Write a blog post", "done": false },
+    { "id": 7, "text": "Attend a meeting", "done": false },
+    { "id": 8, "text": "Practice coding", "done": true },
+    { "id": 9, "text": "Clean the house", "done": false },
+    { "id": 10, "text": "Watch a movie", "done": true }
+]
